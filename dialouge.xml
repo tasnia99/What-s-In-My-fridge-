@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+    <LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical" android:layout_width="match_parent"
+    android:layout_height="match_parent"
+        android:background="#fed8b1">
+    <EditText
+        android:id="@+id/et_update_ItemName"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="10dp"
+        android:layout_marginLeft="20dp"
+        android:layout_marginRight="20dp"
+
+        android:padding="15dp"
+        android:hint="Enter an Item Here"
+        android:textColorHint="@color/golden_gate_orange"
+       />
+        <EditText
+            android:id="@+id/et_update_Quantity"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="10dp"
+            android:layout_marginLeft="20dp"
+            android:layout_marginRight="20dp"
+            android:padding="15dp"
+
+            android:hint="Enter  Quantity Here"
+            android:textColorHint="@color/golden_gate_orange"
+            />
+        <EditText
+            android:id="@+id/et_update_Expired"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="10dp"
+            android:layout_marginLeft="20dp"
+            android:layout_marginRight="20dp"
+            android:padding="15dp"
+            android:hint="Enter Expired Here"
+            android:textColorHint="@color/golden_gate_orange"/>
+
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal"
+        android:layout_marginTop="10dp">
+
+        <Button
+            android:id="@+id/btn_update_user"
+            android:layout_width="120dp"
+            android:layout_height="wrap_content"
+            android:textAllCaps="false"
+            android:layout_margin="20dp"
+            android:text="Update Item"
+            android:background="#10000000"
+            android:padding="10dp"
+            android:textColor="@color/golden_gate_orange"
+           />
+
+        <Button
+            android:id="@+id/btn_update_cancel"
+            android:layout_width="120dp"
+            android:layout_height="wrap_content"
+            android:layout_margin="20dp"
+            android:textAllCaps="false"
+            android:text="Cancel"
+            android:background="#10000000"
+            android:padding="10dp"
+            android:textColor="@color/golden_gate_orange"/>
+
+    </LinearLayout>
+</LinearLayout>
+</androidx.constraintlayout.widget.ConstraintLayout>

@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "169431640006",
+    "firebase_url": "https://designpage-32e6e-default-rtdb.firebaseio.com",
+    "project_id": "designpage-32e6e",
+    "storage_bucket": "designpage-32e6e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:169431640006:android:f14451d7bdc11f5c6234c7",
+        "android_client_info": {
+          "package_name": "com.example.designpage"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "169431640006-gnqmld1gflppe4tuaq64c6c2n284qdu4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAbbMLF9jxMyCqV1U4ailzCEZAy0GaY8Yc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "169431640006-gnqmld1gflppe4tuaq64c6c2n284qdu4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

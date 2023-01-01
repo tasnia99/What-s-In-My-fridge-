@@ -1,0 +1,202 @@
+<resources>
+    <string name="app_name" translatable="false">Whats In My Fridge</string>
+    <string name="tab_text_1" translatable="false" />
+    <string name="tab_text_2" />
+    <string-array name="food">
+        <item>Basanti Polao</item>
+        <item>Chicken Biriyani</item>
+        <item>Beef Curry</item>
+        <item>Dim Vhuna</item>
+        <item>Doi Begun</item>
+        <item>Fish Tikka Masala</item>
+        <item>Sorisha Illish</item>
+        <item>Niramish Shobji</item>
+        <item>Murgi Rezala</item>
+        <item>Daal</item>
+    </string-array>
+    <string name="BasantiPolao">
+        Ingredients:\n\n
+        
+*1.5 cup basmati rice, washed and soaked in water for 15 minutes\n
+*4 tbsp ghee or clarified butter\n
+*1.5 tsp turmeric powder\n
+*5 tsp sugar\n
+*1.5 tsp ginger paste\n
+*Salt to taste\n
+*3 tbsp raisins\n
+*¼ cup cashews\n
+*4 cloves\n
+*1-inch cinnamon stick\n
+*2 small bay leaves\n
+*4 green cardamoms\n
+*3 cups water\n\n
+
+Cooking Directions:\n
+1)In a bowl, add soaked rice, pour 2 tbsp ghee, turmeric powder, ginger paste, sugar and salt. Combine everything together. Make sure the rice is well coated. Keep it aside to marinate for 15 minutes.\n
+2)Heat 2 tbsp ghee in a non-stick pot over medium-high flame. Lower the flame to medium. Then add raisins and cashews. Fry until the cashews turn light golden in colour. Transfer them to a plate and keep it aside to cool down.\n
+3)To the same pot, add cloves, cinnamon stick, bay leaves and green cardamoms. Cook for a minute until they become fragrant.\n
+4)Then add the rice mixture to the pot. Stir gently to combine everything together. Cook the rice, stirring frequently, for about 2 minutes.\n
+5)Pour water and bring it to a boil over a high flame.\n
+6)Cover it with a lid and lower the flame to medium. Cook for about 10-15 minutes until all the water has evaporated and the rice is fully cooked.\n
+7)Turn the flame off. Add the fried cashews and raisins. Mix everything gently.\n
+8)Serve this fluffy basanti pulao with dum aloo or any other Indian curry of your choice. 
+    </string>
+    <string name="ChickenBiriyani">
+Ingredients:\n\n
+*1 cup boiled basmati rice\n
+*1/2 teaspoon mint leaves\n
+*salt as required\n
+*2 tablespoon refined oil\n
+*3 green cardamom\n
+*2 clove\n
+*2 onion\n
+*1 teaspoon turmeric\n
+*1 tablespoon garlic paste\n
+*1 cup hung curd\n
+*2 tablespoon coriander leaves\n
+*water as required\n
+*1 tablespoon ghee\n
+*600 gm chicken\n
+*1 tablespoon garam masala powder\n
+*1 teaspoon saffron\n
+*1 tablespoon bay leaf\n
+*1 black cardamom\n
+*1 teaspoon cumin seeds\n
+*4 green chillies\n
+*1 tablespoon ginger paste\n
+*1 teaspoon red chilli powder\n
+*1/2 tablespoon ginger\n
+*2 drops kewra\n
+*1 tablespoon rose water\n\n
+Cooking Direction:\n\n
+Step 1 Prepare saffron-kewra water and chop veggies\n
+To make a delightful chicken biryani dish firstly soak saffron in water to prepare saffron water (One tsp saffron can be soaked in 1/4 cup water). Next, mix kewra drops in water and mix well to make kewra water. Set them aside for later usage. Now chop the onion and coriander leaves and keep them aside.\n
+Step 2 Saute the onions\n
+Meanwhile, heat refined oil in a deep bottomed pan. Once the oil is hot enough, add cumin seeds, bay leaf, green cardamom, black cardamom, cloves in it, and saute for about a minute. Then, add chopped onion to it and saute until pink. Now, add chicken into it with slit green chillies, turmeric, salt to taste, ginger garlic paste, red chilli powder and green chilli paste. Mix well all the spices and cook for 2-3 minutes. Then, add hung curd into it and give a mix. (Make sure the chicken is washed properly and patted dry before adding it to the dish)\n
+Step 3 Cook biryani on low heat for 5-6 minutes\n
+Turn the flame to medium again and add garam masala in it along with ginger julienned, coriander and mint leaves. Add kewra water, rose water and saffron water in it. Cook till the chicken is tender. Then add 1 cup cooked rice and spread evenly. Then add saffron water and pour ghee over it. You can now cook the dish without the lid or cover it with a lid to give a dum-effect due to the steam formation.\n
+Step 4 Serve hot chicken biryani with your favourite chutney or raita\n
+Cook for 15-20 minutes with a closed lid and garnish with 1 tbsp fried onions and coriander leaves. Serve hot chicken biryani with raita of your choice. Enjoy!\n
+
+</string>
+    <string name="BeefCurry">
+Ingredients:\n\n
+*2 tbsp oil\n
+*500g diced braising steak\n
+*1 tbsp butter\n
+*1 large onion, chopped\n
+*2 garlic cloves, crushed\n
+*1 thumb sized piece of ginger, finely grated\n
+*¼ tsp hot chilli powder\n
+*1 tsp turmeric\n
+*2 tsp ground coriander\n
+*3 cardamom pods, crushed\n
+*400g can chopped tomatoes\n
+*300ml beef stock\n
+*1 tsp sugar\n
+*2 tsp garam masala\n
+*2 tbsp double cream (optional)\n
+*½ small bunch coriander, roughly chopped\n
+*naan bread or rice, to serve\n\n
+Cooking Direction:\n\n
+STEP 1\n
+Heat one tbsp of the oil in a casserole pot over a medium-high heat. Season the beef and fry in the pot for 5-8 mins, turning with a pair of tongs half way until evenly browned. Set aside on a plate.\n
+
+STEP 2\n
+Heat the remaining oil and butter in the pan and add the onions. Fry gently for 15 mins or until golden brown and caramelised. Add the garlic, ginger, chilli, turmeric, ground coriander and cardamom and fry for two mins. Tip in the tomatoes, stock and sugar and bring to the simmer.\n
+
+STEP 3\n
+Add the beef, put a lid on top of the curry and cook over a low heat for 1 ½ – 2 hrs or until the meat is tender and falling apart. Remove the lid for the last 20 minutes of cooking.\n
+
+STEP 4\n
+Stir through the garam masala and cream (if using) and season to taste. Scatter over the coriander and serve with naan breads or rice.\n
+</string>
+
+    <string name="DimVhuna">
+Ingredients:\n\n
+8 eggs, 1 large onion or 2 medium sized onions,  a handful of fresh coriander leaves,  1 tablespoon cooking oil.\n
+
+Spices: 1 level tsp salt, 1 level tsp coriander powder, 1 level tsp cumin powder, 3/4 tsp chilli powder, 1/2 tsp turmeric, 2 cinnamon sticks, 2 cardamoms, 2 bayleafs, 3 garlic cloves (crushed).\n\n
+
+Cooking Direction:\n\n
+1. Boil the eggs for 15-20 minutes until they are fully hard-boiled and then run under cold tap water\n
+
+2. When the eggs are cool enough, peel carefully\n
+
+3. Dice the onion finely and fry in one tablespoon of oil until they’re almost brown\n
+
+4. Add the garlic and fry for a minute or two.\n
+
+5. Add 1/2 cup to 1 cup of hot water (preferably from a kettle) and stir well. Simmer on low heat for 5-7 minutes\n
+
+6. Add all spices as above and stir for 2-3 minutes. Add 1 cup of hot water and allow a smooth paste to form. Continue to add water as necessary so that you get the smooth consistency needed for a curry.  All onions should dissolve.\n
+7. Slit each egg sideways very slightly with a knife in order to allow for the massala to get into the eggs. Don’t slit the eggs too deep or they will break. Add to the massala and allow to cook for 10 minutes. (If the sauce starts to dry up too much, add a little more water).\n
+
+8. Remove from heat and sprinkle some fresh chopped coriander over the top.\n
+</string>
+    <string name="DoiBegun">
+Ingredients:\n\n
+*1 Brinjal (Baingan / Eggplant)\n
+*2 cups Curd (Dahi / Yogurt) , whisked\n
+*1 teaspoon Ginger , grated\n
+*3 Green Chillies , slit\n
+*1/2 teaspoon Turmeric powder (Haldi)\n
+*1/2 teaspoon Red Chilli powder\n
+*1 teaspoon Cumin seeds (Jeera)\n
+*Salt , to taste\n
+*1 teaspoon Sugar\n
+*Coriander (Dhania) Leaves , a few, chopped to garnish\n
+*1 tablespoon Mustard oil\n
+*Oil , for frying/shallow frying\n\n
+Cooking Direction:\n\n
+1)To begin making Doi Begun Recipe (Bengali Style Eggplant in Curd Gravy), wash and cut the eggplant into thin round slices.\n
+
+2)Sprinkle with a little salt and turmeric powder. Heat oil for frying in a wok.\n
+
+3)Deep fry the eggplant slices from both sides. Drain on paper towel and set aside. (You can also shallow fry the brinjal slices instead. Flip when you see that the bottom side is browned and crisp and cook on the other side too)\n
+
+4)Heat mustard oil in another pan or wok on a medium heat. When the oil is hot, add cumin seeds on low heat. Let them splutter.\n
+
+5)Now add ginger and green chillies, stir a bit till the ginger is mellowed and the raw smell goes.\n
+
+6)Now add salt, sugar, turmeric and chilli powder and saute a bit till combined. Take care not to burn the mixture.\n
+
+7)Add in the whisked yogurt and half a cup of water to it.\n
+
+8)Stir the mixture, cook for a quick boil on medium heat. Now add the fried eggplants.Stir and cook for a minute so that the flavours seep in a bit.\n
+
+9)Serve Doi Begun Recipe (Bengali Style Eggplant in Curd Gravy) along with a meal of steamed rice and Bengali Luchi Recipe (Traditional Bengali Style Fried Puffed Indian Bread), along with Choto Aloor Dum Recipe (Bengali Style Baby Potato Stir Fry) on sides.\n
+</string>
+
+    <string name="MurgiRezala">
+Ingredients:\n\n
+*500 gm chicken\n
+*1 tablespoon ginger paste\n
+*2 tablespoon cashews\n
+*4 dry red chili\n
+*4 green cardamom\n
+*1 dash nutmeg powder\n
+*4 tablespoon mustard oil\n
+*5 tablespoon yoghurt (curd)\n
+*1 tablespoon garlic paste\n
+*1 teaspoon poppy seeds\n
+*3 black cardamom\n
+*3 clove\n
+*1 teaspoon black pepper\n
+*salt as required\n\n
+Cooking Direction:\n\n
+Step 1 Marinate the chicken\n
+Start by washing the chicken through with fresh water and pat it dry. Keep it in a bowl and add ginger garlic paste, along with cashew and poppy seeds powder to the bowl. Whisk the yoghurt, pour it in and add the red chilli powder, pepper, salt, nutmeg powder and massage all of this into the chicken. Keep in the refrigerator for 2 hours.\n
+Step 2 Prepare the curry\n
+Now, add some oil to a pan and add the whole spices to it. Roast them until it becomes fragrant. Now add the chicken and let it cook in the oil for 3-4 minutes on all sides. Add the remaining marinade over it and cook for 2 more minutes.\n
+Step 3 Simmer and serve!\n
+At this point, add some of the cashew and poppy seeds powder along with 1 cup of water. Let it cook for 10 minutes on low flame and serve!\n
+
+</string>
+    <string name="google_map_key" />
+    <string name="title_activity_maps">MapsActivity</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+
+</resources>

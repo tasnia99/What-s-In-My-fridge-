@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "910305746208",
+    "project_id": "designpage-adbb0",
+    "storage_bucket": "designpage-adbb0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:910305746208:android:9841afc4b99a906f0e0b45",
+        "android_client_info": {
+          "package_name": "com.example.designpage"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "910305746208-hkk82lv74pepe3843m0glaodgtuaoflo.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAlf6EWBvCjxfXOSIowAS51zToBWxmn65A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "910305746208-hkk82lv74pepe3843m0glaodgtuaoflo.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
